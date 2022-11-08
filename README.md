@@ -7,7 +7,7 @@ You must run these linux commands to download the dataset from kaggle. Make sure
 
 ```sh
 git clone <ssh code>
-pip install -r requirements.txt
+pip3 install -r requirements.txt -U
 sudo apt-get install unzip
 python3 kaggle_download.py
 ```
