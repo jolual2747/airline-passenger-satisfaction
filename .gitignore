@@ -8,6 +8,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+
+#joblibs
+*.joblib
 # Kaggle
 kaggle.json
 

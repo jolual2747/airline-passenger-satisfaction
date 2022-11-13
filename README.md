@@ -11,3 +11,4 @@ pip3 install -r requirements.txt -U
 sudo apt-get install unzip
 python3 kaggle_download.py
 ```
+When you run the kaggle_download.py it will create a folder called 'datasets' where will be located the .csv files.
